@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sun Hui (孙辉)"
-description              : "Ph.D. candidate from NBJL-AIgroup. Focusing on Parallel Computing, AI for Data Compression and Information Security."
+title                    : "Xie HaoNan (解浩男)"
+description              : "Ph.D. candidate from Guangxi University. Focusing on Parallel Computing, AI for Data Compression and Information Security."
 repository               : "fahaihi/fahaihi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Sun Hui (孙辉)"
-  avatar           : "images/sh_profile.jpeg"
+  name             : Xie HaoNan (解浩男)"
+  avatar           : "xhn.png"
   bio              : "Nankai-Baidu Joint Lab"
   location         : "Tianjin CN"
   employer         :
