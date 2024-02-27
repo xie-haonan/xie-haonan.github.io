@@ -21,15 +21,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : Xie HaoNan (解浩男)"
+  name             : Xie Haonan (解浩男)"
   avatar           : "xhn.png"
-  bio              : "Nankai-Baidu Joint Lab"
-  location         : "Tianjin CN"
+  bio              : "School of Electrical Engineering, Guangxi University"
+  location         : "Nanning CN"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "adairmillersh@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=RylWV7cAAAAJ&hl=zh-CN"
+  email            : "haonanxie@yeah.net"
+  researchgate     : "https://www.researchgate.net/profile/Haonan-Xie-3/research?ev=prf_act"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fahaihi"
+  github           : "xie-haonan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "fahaihi"
+  linkedin         : # "fahaihi"
   dblp             : # "https://dblp.org/pid/75/6568-6.html"
-  orcid            : # "https://orcid.org/0000-0002-9160-3848"
+  orcid            : "https://orcid.org/0000-0001-5623-2845"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
