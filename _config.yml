@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xie Haonan"
-  avatar           : "images/haonanxie-photo.png" # e.g., "images/avatar.jpg"
+  avatar           : "images/haonanxie_photo.png" # e.g., "images/avatar.jpg"
   bio              : "Postdoc, PhD, Renewable Energy System, Community Energy Engineering, Thermodynamics Model, Circular Economy, LCA, SDGs."
   location         : "Zhuji, China"
   employer         :
