@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xie Haonan"
-description              : "Postdoc, PhD, Renewable Energy System, Community Energy Engineering, Thermodynamics Model, Circular Economy, LCA, SDGs."
+title                    : "Xie Haonan's Personal Website"
+description              : # "Postdoc, PhD, Renewable Energy System, Community Energy Engineering, Thermodynamics Model, Circular Economy, LCA, SDGs."
 repository               : "xie-haonan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xie Haonan"
   avatar           : "haonanxie-photo.jpg"
-  bio              : # "Postdoc, PhD, Renewable Energy System, Community Energy Engineering, Thermodynamics Model, Circular Economy, LCA, SDGs."
+  bio              : "Postdoc, PhD, Renewable Energy System, Community Energy Engineering, Thermodynamics Model, Circular Economy, LCA, SDGs."
   location         : "Zhuji, China"
   employer         :
   pubmed           : 
