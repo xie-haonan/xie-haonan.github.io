@@ -28,7 +28,7 @@ My research interest includes Community (and Park-level) energy system and virtu
 
 # 💼 Employments
 
-- _2025.07-Now_<br>
+- _2025.07 - Now_<br>
   **Postdoctoral Fellow**, Center for Research on Microgrids (CROM), Huanjiang Laboratory, Zhejiang University, China.<br>
   **Research Direction**: Community/park-level virtual power plant, Multi-energy systems engineering modelling, Circular economy and whole lifecycle analysis.<br>
   **Co-supervisor**: [Prof. Josep M. Guerrero](https://scholar.google.com/citations?user=cj43vw4AAAAJ&hl=en)
