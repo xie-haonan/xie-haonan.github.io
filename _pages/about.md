@@ -73,6 +73,10 @@ My research interest includes Community (and Park-level) energy system and virtu
 
 - XXX
 
+# 📜 Patents & Software Copyright
+
+- XXX
+
 # 🎖 Honors and Awards
 
 - _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
