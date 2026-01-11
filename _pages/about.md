@@ -41,7 +41,7 @@ My research interest includes Community (and Park-level) energy system and virtu
   **Supervisor**: [Prof. Hui Hwang Goh](https://scholar.google.com.my/citations?user=bk7OXTsAAAAJ&hl=en) (PhD GPA Ranking **1st/19**).<br>
   **Co-supervisor**: [Prof. Dongdong Zhang](https://ieeexplore.ieee.org/author/37086023621) (Master GPA Ranking **1st/13**)
 
-- _2015.09 - 2019.06_<br>
+- _2014.09 - 2018.06_<br>
   **Bachelor**, School of Electrical Engineering, Guangxi University, China.<br>
   **Research Direction**: Power electronics, Control science and engineering (Bachelor GPA Ranking 22nd/160)
 
