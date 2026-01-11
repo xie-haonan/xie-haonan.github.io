@@ -73,7 +73,7 @@ My research interest includes Community (and Park-level) energy system and virtu
 
 - XXX
 
-# 📜 Patents & Software Copyright
+# 📜 Patents/Software Copyright
 
 - Zhang D, **Xie H**, Huang R, et al., A High Power Density Electromagnetic Equipment Operation Test Platform. CN Patent, 2022, CN216117849U.
 - Zhang D, **Xie H**, Guo P, et al., A near-field wireless charging and maximum power tracking control system and method based on position control. CN Patent, 2021, CN202110970936.7.

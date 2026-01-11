@@ -18,8 +18,8 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Patents & Software Copyright"
-    url: "/#-patents-and-software-copyright"
+  - title: "Patents/Software Copyright"
+    url: "/#-patents/software-copyright"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
