@@ -37,9 +37,9 @@ My research interest includes Community (and Park-level) energy system and virtu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
+- **Xie H**, Jiang M, Zhang D`*`, Goh HH`*`, Ahmad T, Liu H, et al. [IntelliSense Technology in the New Power Systems](https://www.sciencedirect.com/science/article/pii/S1364032123000850). **Renewable and Sustainable Energy Reviews 2023**. (SCI Q1 Top, IF 16.79 🔔ESI Highly Cited)
+- **Xie H**, Huang R, Sun H, Han Z, Jiang M, Zhang D`*`, Goh HH`*`, et al. [Wireless Energy: Paving the Way for Smart Cities and a Greener Future](https://www.sciencedirect.com/science/article/pii/S0378778823006990). **Energy and Buildings 2023**. (SCI Q1 Top, IF 6.7)
 - Xiao J, Yin L, **Xie H`*`**, Huang R, Zhang D, Wu T. [A parametric Modeling Method for Planar Coil Design in Wireless Power Transfer](https://ieeexplore.ieee.org/document/9846257/). **IEEE 5th International Electrical and Energy Conference 2022**.
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🌐 Projects
 
