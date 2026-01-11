@@ -48,8 +48,8 @@ Xie H, Ahmad T, Zhang DD*, Goh HH*, Wu T\*. Community-based Virtual Power Plants
 - **Xie H**, Sun H, Zhang D, Wong SY, Goh HH\*. The Integration of Supercritical and Reheating Rankine Cycles in Advanced Thermal Energy Systems for Extreme Weather Adaptation. 16th International Conference on Applied Energy 2024. (业内顶级会议)
 - Yin J\*, **Xie H**, Goh HH, Dai W. Unveiling the Hidden Dangers by Investigating the Relationship Between Low-Voltage Power Quality and Electrical Fire. 3rd International Conference on Energy and Electrical Power Systems 2024. (EI 会议)
 - **Xie H**, Jiang M, Zhang D\*, Goh HH\*, Ahmad T, Liu H, et al. [IntelliSense Technology in the New Power Systems](https://www.sciencedirect.com/science/article/pii/S1364032123000850). **Renewable and Sustainable Energy Reviews 2023**. (SCI Q1 Top, IF 16.79 🔔ESI Highly Cited)
-- **Xie H**, Huang R, Sun H, Han Z, Jiang M, Zhang D`*`, Goh HH`*`, et al. [Wireless Energy: Paving the Way for Smart Cities and a Greener Future](https://www.sciencedirect.com/science/article/pii/S0378778823006990). **Energy and Buildings 2023**. (SCI Q1 Top, IF 6.7)
-- Xiao J, Yin L, **Xie H`*`**, Huang R, Zhang D, Wu T. [A parametric Modeling Method for Planar Coil Design in Wireless Power Transfer](https://ieeexplore.ieee.org/document/9846257/). **IEEE 5th International Electrical and Energy Conference 2022**.
+- **Xie H**, Huang R, Sun H, Han Z, Jiang M, Zhang D\*, Goh HH\*, et al. [Wireless Energy: Paving the Way for Smart Cities and a Greener Future](https://www.sciencedirect.com/science/article/pii/S0378778823006990). **Energy and Buildings 2023**. (SCI Q1 Top, IF 6.7)
+- Xiao J, Yin L, **Xie H\***, Huang R, Zhang D, Wu T. [A parametric Modeling Method for Planar Coil Design in Wireless Power Transfer](https://ieeexplore.ieee.org/document/9846257/). **IEEE 5th International Electrical and Energy Conference 2022**.
 
 # 🌐 Projects
 
