@@ -75,9 +75,20 @@ My research interest includes Community (and Park-level) energy system and virtu
 
 # 📜 Patents & Software Copyright
 
-- XXX
+- Zhang D, **Xie H**, Huang R, et al., A High Power Density Electromagnetic Equipment Operation Test Platform. CN Patent, 2022, CN216117849U.
+- Zhang D, **Xie H**, Guo P, et al., A near-field wireless charging and maximum power tracking control system and method based on position control. CN Patent, 2021, CN202110970936.7.
+- Zhang D, **Xie H**, Sun H, et al., A non-invasive identification method, system, device, and storage medium for electromagnetic equipment with multiple parameters based on integrated algorithms. CN Patent, 2021, CN202110983345.3.
+- Sun H, **Xie H**. DNA Sensitive Sequence Filtering Software. CN Computer Software Copyright, 2021, 2021SR0683801.
+- **Xie H**, Sun H. CMSEIRD Infectious Disease Prediction System. CN Computer Software Copyright, 2020, 2020R11L2661762.
 
 # 🎖 Honors and Awards
 
-- _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/)
+- **Outstanding Doctoral** Graduate Award of Guangxi University, 2025.
+- **National Scholarship** for Doctoral Students, 2024.
+- **Outstanding Doctoral Award** of China Electrotechnical Society, 2023.
+- **Silver Award** of the 9th China International "Internet +" Undergraduate Innovation and Entrepreneurship Competition in Guangxi, 2023. (8th/15)
+- **Outstanding Students** of Guangxi University, 2022-2024. (2 times)
+- **The First Prize Graduate Academic Scholarship** of Guangxi University, 2019-2024. (4 times)
+- **The Second Prize Graduate Academic Scholarship** of Guangxi University, 2019-2024. (2 times)
+- **The First Prize Academic Scholarship** of Guangxi University, 2014-2018. (4 times)
+- **National Encouragement Scholarship** of China, 2014-2018. (2 times)
