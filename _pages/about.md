@@ -38,19 +38,12 @@ My research interest includes Community (and Park-level) energy system and virtu
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - Goh HH\*, Huang C, Yew WK, **Xie H**, et al. [Sowing watts, reaping sustainability: Multi-dimensional performance of agrivoltaic electric vehicle charging systems](https://www.sciencedirect.com/science/article/pii/S0957582025013205). **Process Safety and Environmental Protection 2025**. (SCI Q1 Top, IF 6.9)
-
 - **Xie H**, Sun H, Liu H, He T, Goh HH\*, et al. [Prosumer Full Lifecycle Footprint Painting for Circular Economy and Community-Based Virtual Power Plant: A Multi-Objective Optimization Research](https://www.sciencedirect.com/science/article/pii/S0957582025009954). **Process Safety and Environmental Protection 2025**. (SCI Q1 Top, IF 6.9)
-
 - He T, **Xie H**, Goh HH\*, et al. [Advanced sensing and holistic perception technologies for new-type power systems: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S1364032125006963). **Renewable and Sustainable Energy Reviews 2025**. (SCI Q1 Top, IF 16.3)
-
 - Goh HH\*, Liang Q, **Xie H\***, et al. [Maximizing Eco-Energetic and Economic Synergies: Floating Photovoltaic Engaged Pumped-Hydro Energy Storage for Water Scarcity Alleviation, Carbon Emission Reduction, and Cost Efficiency](https://www.sciencedirect.com/science/article/pii/S0957582025003490). **Process Safety and Environmental Protection 2025**. (SCI Q1 Top, IF 6.9)
-
 - Goh HH, Huang C, Liang X, **Xie H\***, et al., [Sustainable Development through the Balancing of Photovoltaic Charging Facilities and Agriculture for Energy Harvesting](https://www.sciencedirect.com/science/article/pii/S0306261924018464). **Applied Energy 2025**. (SCI Q1 Top, IF 10.1)
-
 - **Xie H**, Goh HH\*, Zhang DD\*, et al. [Eco-Energetical Analysis of Circular Economy and Community-Based Virtual Power Plants (CE-cVPP): A Systems Engineering-Engaged Life Cycle Assessment (SE-LCA) Method for Sustainable Renewable Energy Development](https://www.sciencedirect.com/science/article/pii/S0306261924005749). **Applied Energy 2024**. (SCI Q1 Top, IF 11.2)
-
 - **Xie H**, Ahmad T, Zhang DD\*, Goh HH\*, Wu T\*. [Community-based Virtual Power Plants’ Technology and Circular Economy Models in the Energy Sector: A Techno-Economy Study](https://www.sciencedirect.com/science/article/pii/S136403212301047X). **Renewable and Sustainable Energy Reviews 2024**. (SCI Q1 Top, IF 16.79)
-
 - **Xie H**, Sun H, Zhang D, Wong SY, Goh HH\*. [The Integration of Supercritical and Reheating Rankine Cycles in Advanced Thermal Energy Systems for Extreme Weather Adaptation](https://www.energy-proceedings.org/the-integration-of-supercritical-and-reheating-rankine-cycles-in-advanced-thermal-energy-systems-for-extreme-weather-adaptation/). **16th International Conference on Applied Energy 2024**.
 - Yin J\*, **Xie H**, Goh HH, Dai W. [Unveiling the Hidden Dangers by Investigating the Relationship Between Low-Voltage Power Quality and Electrical Fire](https://ieeexplore.ieee.org/document/10693221). **3rd International Conference on Energy and Electrical Power Systems 2024**. (EI)
 - **Xie H**, Jiang M, Zhang D\*, Goh HH\*, Ahmad T, Liu H, et al. [IntelliSense Technology in the New Power Systems](https://www.sciencedirect.com/science/article/pii/S1364032123000850). **Renewable and Sustainable Energy Reviews 2023**. (SCI Q1 Top, IF 16.79, 🔔ESI Highly Cited)
