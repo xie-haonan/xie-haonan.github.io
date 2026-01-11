@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher at the Center for Research of Microgrid (CROM), Zhejiang University.
+I am a postdoctoral researcher at the Center for Research on Microgrid (CROM), Zhejiang University.
 
 My research interest includes Community (and Park-level) energy system and virtual power plant. I have published more than 10 papers at the top journals with total <a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
