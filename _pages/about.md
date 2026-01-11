@@ -30,13 +30,20 @@ My research interest includes Community (and Park-level) energy system and virtu
 
 - _2025.07-Now_<br>
   **Postdoctoral Fellow**, Center for Research on Microgrids (CROM), Huanjiang Laboratory, Zhejiang University, China.<br>
-  **Research Direction**: consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.<br>
+  **Research Direction**: Community/park-level virtual power plant, Multi-energy systems engineering modelling, Circular economy and whole lifecycle analysis.<br>
   **Co-supervisor**: [Prof. Josep M. Guerrero](https://scholar.google.com/citations?user=cj43vw4AAAAJ&hl=en)
 
 # 📖 Educations
 
-- _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2019.09 - 2025.06_<br>
+  **MD-PhD**, School of Electrical Engineering, Guangxi University, China.<br>
+  **Research Direction**: Virtual power plant, Energy systems engineering modelling.<br>
+  **Supervisor**: [Prof. Hui Hwang Goh](https://scholar.google.com.my/citations?user=bk7OXTsAAAAJ&hl=en) (PhD GPA Ranking **1st/19**).<br>
+  **Co-supervisor**: [Prof. Dongdong Zhang](https://ieeexplore.ieee.org/author/37086023621) (Master GPA Ranking **1st/13**)
+
+- _2015.09 - 2019.06_<br>
+  **Bachelor**, School of Electrical Engineering, Guangxi University, China.<br>
+  **Research Direction**: Power electronics, Control science and engineering (Bachelor GPA Ranking 22nd/160)
 
 # 📝 Publications
 
