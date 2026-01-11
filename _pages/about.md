@@ -37,9 +37,7 @@ My research interest includes Community (and Park-level) energy system and virtu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-</div>
-</div>
+- Xiao J, Yin L, **Xie H`*`**, Huang R, Zhang D, Wu T. A parametric Modeling Method for Planar Coil Design in Wireless Power Transfer(https://ieeexplore.ieee.org/document/9846257/). **IEEE 5th International Electrical and Energy Conference 2022**.
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
