@@ -26,6 +26,15 @@ My research interest includes Community (and Park-level) energy system and virtu
 - _2025.07_: &nbsp;🎉🎉 I am honored to join the Center for Research on Microgrid (CROM), Huanjiang Laboratory, Zhejiang University, as a Postdoctoral Fellow.💥💥💥
 - _2025.06_: &nbsp;🎉🎉 I successfully graduated and obtained a PhD in Electrical Engineering from Guangxi University.✨✨✨
 
+# 💼 Employments
+
+- _2025.07-Now_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+# 📖 Educations
+
+- _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
 # 📝 Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -53,15 +62,6 @@ My research interest includes Community (and Park-level) energy system and virtu
 # 🌐 Projects
 
 - XXX
-
-# 💼 Employments
-
-- _2025.07-Now_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-# 📖 Educations
-
-- _2019.06 - 2022.04 (now)_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2015.09 - 2019.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 🎖 Honors and Awards
 
