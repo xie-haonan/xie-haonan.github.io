@@ -23,7 +23,15 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Haonan Xie"
   avatar: "images/haonanxie_photo.png" # e.g., "images/avatar.jpg"
-  bio: "Off-design Thermodynamics | Dynamic LCA | Multi-Energy Microgrids | Circular Energy Engineering"
+  research_tags:
+    - icon: thermometer-half
+      text: Off-design Thermodynamics
+    - icon: chart-line
+      text: Dynamic LCA
+    - icon: network-wired
+      text: Multi-Energy Microgrids
+    - icon: recycle
+      text: Circular Energy Engineering
   location: "Zhuji, China"
   employer:
   pubmed:

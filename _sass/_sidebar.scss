@@ -145,6 +145,33 @@
   }
 }
 
+.author__tags {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: $type-size-6;
+  line-height: 1.45;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 0.4em;
+    white-space: normal;
+  }
+
+  i {
+    margin-top: 0.12em;
+    margin-right: 0.45em;
+    color: $gray;
+    flex-shrink: 0;
+  }
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
