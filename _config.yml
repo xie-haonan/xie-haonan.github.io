@@ -24,14 +24,10 @@ author:
   name: "Haonan Xie"
   avatar: "images/haonanxie_photo.png" # e.g., "images/avatar.jpg"
   research_tags:
-    - icon: thermometer-half
-      text: Off-design Thermodynamics
-    - icon: chart-line
-      text: Dynamic LCA
-    - icon: network-wired
-      text: Multi-Energy Microgrids
-    - icon: recycle
-      text: Circular Energy Engineering
+    - Off-design Thermodynamics
+    - Dynamic LCA
+    - Multi-Energy Microgrids
+    - Circular Energy Engineering
   location: "Zhuji, China"
   employer:
   pubmed:

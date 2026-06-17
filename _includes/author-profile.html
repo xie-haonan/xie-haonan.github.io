@@ -10,14 +10,15 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.research_tags %}
-    <ul class="author__tags">
-      {% for tag in author.research_tags %}
-        <li><i class="fas fa-fw fa-{{ tag.icon }}" aria-hidden="true"></i> {{ tag.text }}</li>
-      {% endfor %}
-    </ul>
-    {% elsif author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
+
+  {% if author.research_tags %}
+  <ul class="author__tags">
+    {% for tag in author.research_tags %}
+      <li>{{ tag }}</li>
+    {% endfor %}
+  </ul>
+  {% elsif author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
