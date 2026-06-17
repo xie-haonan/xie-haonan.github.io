@@ -21,6 +21,8 @@ I am a Postdoctoral Fellow at the Center for Research on Microgrids (CROM), Zhej
 
 I specialize in bridging the constitutive gap between transient exergy destruction (thermodynamics) and dynamic lifecycle carbon footprints (SE-LCA) in multi-energy microgrids. Currently, I am building the underlying Python-based computational engines (e.g., Multi-CE-cVPP-Core) to provide auditable, hard physical shields for Safe Deep Reinforcement Learning (Safe-DRL) under extreme climate uncertainties.
 
+Author metrics (<a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&hl'>Google Scholar</a>): <strong><span id='total_cit'>314</span></strong> citations · h-index <strong><span id='h_index'>10</span></strong> <a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
 # 🔥 News
 
 - _2026.06_: &nbsp;📌 Released the beta version of Multi-CE-cVPP-Core, an open-source Python SDK for dynamic exergy-carbon mapping in microgrids.
