@@ -1,4 +1,4 @@
-from scholarly import ProxyGenerator, scholarly
+from scholarly import scholarly
 import json
 import os
 import sys
@@ -9,7 +9,8 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-RETRY_DELAYS_SECONDS = (10, 20, 30, 45, 60, 90)
+SCHOLARLY_ATTEMPTS = 3
+SCHOLARLY_DELAYS_SECONDS = (5, 10, 15)
 SNAPSHOT_PATH = "results/gs_data.json"
 SHIELDIO_PATH = "results/gs_data_shieldsio.json"
 SCHOLAR_HEADERS = {
@@ -41,15 +42,9 @@ def normalize_publications(author: dict) -> dict:
 def fetch_via_scholarly(scholar_id: str) -> dict:
     last_error = None
 
-    for attempt, delay in enumerate(RETRY_DELAYS_SECONDS, start=1):
+    for attempt in range(1, SCHOLARLY_ATTEMPTS + 1):
         try:
-            if attempt >= 4:
-                pg = ProxyGenerator()
-                if pg.FreeProxies():
-                    scholarly.use_proxy(pg)
-                    print("Using free proxy.", file=sys.stderr)
-
-            print(f"Scholarly attempt {attempt}/{len(RETRY_DELAYS_SECONDS)}...", file=sys.stderr)
+            print(f"Scholarly attempt {attempt}/{SCHOLARLY_ATTEMPTS}...", file=sys.stderr)
             author = scholarly.search_author_id(scholar_id)
             scholarly.fill(
                 author,
@@ -63,11 +58,11 @@ def fetch_via_scholarly(scholar_id: str) -> dict:
         except Exception as exc:
             last_error = exc
             print(f"Scholarly attempt {attempt} failed: {exc}", file=sys.stderr)
-            if attempt < len(RETRY_DELAYS_SECONDS):
-                time.sleep(delay)
+            if attempt < SCHOLARLY_ATTEMPTS:
+                time.sleep(SCHOLARLY_DELAYS_SECONDS[attempt - 1])
 
     raise RuntimeError(
-        f"Scholarly fetch failed after {len(RETRY_DELAYS_SECONDS)} attempts: {last_error}"
+        f"Scholarly fetch failed after {SCHOLARLY_ATTEMPTS} attempts: {last_error}"
     )
 
 
