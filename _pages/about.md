@@ -26,7 +26,7 @@ Author metrics (<a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&
 # 🔥 News
 
 - _2026.05_: &nbsp;Released two Multi-CE-cVPP demonstrators: [<strong>SE-LCA</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/selca/) — dynamic lifecycle carbon and exergy-equivalent mapping; [<strong>MEGM</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/megm/) — multi-energy market and hybrid trading layer.
-- _2026.03_: &nbsp;📌 Multi-CE-cVPP showcase in active development; full release pending public disclosure.
+- _2026.03_: &nbsp;Multi-CE-cVPP showcase in active development; full release pending public disclosure.
 - _2025.07_: &nbsp;Joined ZJU-Huanjiang Lab as a Postdoctoral Fellow, co-supervised by Prof. Josep M. Guerrero (IEEE Fellow).
 - _2025.06_: &nbsp;Earned Ph.D. in Electrical Engineering from Guangxi University.
 
