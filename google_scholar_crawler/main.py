@@ -8,28 +8,20 @@ from datetime import datetime
 RETRY_DELAYS_SECONDS = (10, 20, 30, 45, 60, 90)
 
 
-def setup_proxy(use_proxy: bool) -> None:
-    if not use_proxy:
-        scholarly.use_proxy(ProxyGenerator())
-        return
-
-    pg = ProxyGenerator()
-    if pg.FreeProxies():
-        scholarly.use_proxy(pg)
-        print("Using free proxy.", file=sys.stderr)
-    else:
-        print("Free proxy unavailable; retrying without proxy.", file=sys.stderr)
-        scholarly.use_proxy(ProxyGenerator())
-
-
 def fetch_author(scholar_id: str) -> dict:
     last_error = None
 
     for attempt, delay in enumerate(RETRY_DELAYS_SECONDS, start=1):
         try:
-            setup_proxy(use_proxy=attempt >= 3)
-            print(f"Attempt {attempt}/{len(RETRY_DELAYS_SECONDS)}...", file=sys.stderr)
+            if attempt >= 4:
+                pg = ProxyGenerator()
+                if pg.FreeProxies():
+                    scholarly.use_proxy(pg)
+                    print("Using free proxy.", file=sys.stderr)
+                else:
+                    print("Free proxy unavailable; retrying direct connection.", file=sys.stderr)
 
+            print(f"Attempt {attempt}/{len(RETRY_DELAYS_SECONDS)}...", file=sys.stderr)
             author = scholarly.search_author_id(scholar_id)
             scholarly.fill(
                 author,
