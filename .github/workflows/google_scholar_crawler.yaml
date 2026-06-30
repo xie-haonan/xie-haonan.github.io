@@ -12,22 +12,29 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
     - uses: actions/checkout@v4
     - name: Install Reqs
       run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
+        sudo apt-get install -y python3-setuptools
+    - name: Crawl Google Scholar
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
-        cd ./results
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+    - name: Push citation data
+      run: |
+        cd ./google_scholar_crawler/results
         git init
         git config --local user.name "github-actions[bot]"
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add *.json
-        git commit -m "Updated Citation Data"
-        git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:google-scholar-stats --force
-      env:
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        if git diff --cached --quiet; then
+          echo "No citation changes to push."
+        else
+          git commit -m "Updated Citation Data"
+          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:google-scholar-stats --force
+        fi
