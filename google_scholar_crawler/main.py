@@ -9,8 +9,8 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
-SCHOLARLY_ATTEMPTS = 3
-SCHOLARLY_DELAYS_SECONDS = (5, 10, 15)
+SCHOLARLY_ATTEMPTS = 2
+SCHOLARLY_DELAYS_SECONDS = (5, 10)
 SNAPSHOT_PATH = "results/gs_data.json"
 SHIELDIO_PATH = "results/gs_data_shieldsio.json"
 SCHOLAR_HEADERS = {
@@ -39,17 +39,17 @@ def normalize_publications(author: dict) -> dict:
     return author
 
 
-def fetch_via_scholarly(scholar_id: str) -> dict:
-    last_error = None
+def fetch_via_scholarly(scholar_id: str, include_publications: bool) -> dict:
+    sections = ["basics", "indices", "counts"]
+    if include_publications:
+        sections.append("publications")
 
+    last_error = None
     for attempt in range(1, SCHOLARLY_ATTEMPTS + 1):
         try:
             print(f"Scholarly attempt {attempt}/{SCHOLARLY_ATTEMPTS}...", file=sys.stderr)
             author = scholarly.search_author_id(scholar_id)
-            scholarly.fill(
-                author,
-                sections=["basics", "indices", "counts", "publications"],
-            )
+            scholarly.fill(author, sections=sections)
 
             if not author.get("name") or author.get("citedby") is None:
                 raise ValueError("Incomplete Scholar profile (likely blocked by anti-bot page).")
@@ -71,7 +71,7 @@ def fetch_via_http(scholar_id: str, existing: dict | None = None) -> dict | None
     print(f"Trying HTTP fallback: {url}", file=sys.stderr)
 
     try:
-        response = requests.get(url, headers=SCHOLAR_HEADERS, timeout=60)
+        response = requests.get(url, headers=SCHOLAR_HEADERS, timeout=45)
         response.raise_for_status()
     except requests.RequestException as exc:
         print(f"HTTP fallback request failed: {exc}", file=sys.stderr)
@@ -120,24 +120,27 @@ def main() -> None:
         raise EnvironmentError("GOOGLE_SCHOLAR_ID is not set.")
 
     existing = load_snapshot()
-    author = None
-    crawl_status = "failed"
+    author = fetch_via_http(scholar_id, existing)
+    crawl_status = "http_fallback" if author else None
 
-    try:
-        author = fetch_via_scholarly(scholar_id)
-        crawl_status = "scholarly"
-    except Exception as exc:
-        print(f"Scholarly crawl failed: {exc}", file=sys.stderr)
-        author = fetch_via_http(scholar_id, existing)
-        if author:
-            crawl_status = "http_fallback"
+    if author is None:
+        try:
+            author = fetch_via_scholarly(
+                scholar_id,
+                include_publications=existing is None,
+            )
+            if existing and not author.get("publications"):
+                author["publications"] = existing.get("publications", {})
+            crawl_status = "scholarly"
+        except Exception as exc:
+            print(f"Scholarly crawl failed: {exc}", file=sys.stderr)
 
     if author is None and existing:
         author = existing
         crawl_status = "cached"
 
     if author is None:
-        raise RuntimeError("No Scholar data available from crawl, HTTP fallback, or cache.")
+        raise RuntimeError("No Scholar data available from HTTP, Scholarly, or cache.")
 
     author["updated"] = str(datetime.now())
     author["crawl_status"] = crawl_status
