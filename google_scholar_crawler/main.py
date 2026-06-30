@@ -123,21 +123,16 @@ def main() -> None:
     author = fetch_via_http(scholar_id, existing)
     crawl_status = "http_fallback" if author else None
 
-    if author is None:
-        try:
-            author = fetch_via_scholarly(
-                scholar_id,
-                include_publications=existing is None,
-            )
-            if existing and not author.get("publications"):
-                author["publications"] = existing.get("publications", {})
-            crawl_status = "scholarly"
-        except Exception as exc:
-            print(f"Scholarly crawl failed: {exc}", file=sys.stderr)
-
     if author is None and existing:
         author = existing
         crawl_status = "cached"
+
+    if author is None:
+        try:
+            author = fetch_via_scholarly(scholar_id, include_publications=True)
+            crawl_status = "scholarly"
+        except Exception as exc:
+            print(f"Scholarly crawl failed: {exc}", file=sys.stderr)
 
     if author is None:
         raise RuntimeError("No Scholar data available from HTTP, Scholarly, or cache.")
