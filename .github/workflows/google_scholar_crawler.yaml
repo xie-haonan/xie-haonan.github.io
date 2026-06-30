@@ -15,6 +15,19 @@ jobs:
     timeout-minutes: 20
     steps:
     - uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+    - name: Restore previous citation snapshot
+      run: |
+        mkdir -p google_scholar_crawler/results
+        git fetch origin google-scholar-stats:refs/remotes/origin/google-scholar-stats 2>/dev/null || true
+        if git rev-parse --verify refs/remotes/origin/google-scholar-stats >/dev/null 2>&1; then
+          git show refs/remotes/origin/google-scholar-stats:gs_data.json > google_scholar_crawler/results/gs_data.json
+          git show refs/remotes/origin/google-scholar-stats:gs_data_shieldsio.json > google_scholar_crawler/results/gs_data_shieldsio.json
+          echo "Restored previous citation snapshot from google-scholar-stats branch."
+        else
+          echo "No previous citation snapshot found."
+        fi
     - name: Install Reqs
       run: |
         sudo apt-get install -y python3-setuptools
@@ -27,6 +40,10 @@ jobs:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
     - name: Push citation data
       run: |
+        if [ ! -f google_scholar_crawler/results/gs_data.json ]; then
+          echo "No citation data available to push."
+          exit 1
+        fi
         cd ./google_scholar_crawler/results
         git init
         git config --local user.name "github-actions[bot]"
