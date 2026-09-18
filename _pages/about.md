@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoctoral Fellow at the Center for Research on Microgrids (CROM), Zhejiang University. My research envisions a physics-and-carbon-informed control paradigm for the next generation of energy systems.
+I am a Postdoctoral Fellow at the Center for Research on Microgrids (CROM), Zhejiang University, with a Ph.D. in Electrical Engineering. My work focuses on **multi-energy systems, physics-based modelling, lifecycle energy-carbon assessment, optimization, and energy digitalisation**, with an emphasis on bridging fundamental modelling with practical energy-system applications.
 
-I specialize in bridging the constitutive gap between transient exergy destruction (thermodynamics) and dynamic lifecycle carbon footprints (SE-LCA) in multi-energy microgrids. Currently, I am building the underlying Python-based computational engines (e.g., Multi-CE-cVPP-Core) to provide auditable, hard physical shields for Safe Deep Reinforcement Learning (Safe-DRL) under extreme climate uncertainties.
+My research has evolved from **intelligent sensing, non-intrusive identification, and fault diagnosis**, to **circular-economy-oriented virtual power plants (CE-cVPP)**, and currently to **Multi-CE-cVPP**, my postdoctoral research framework for park- and community-level multi-energy systems. I develop Python-based computational models and tools that connect equipment physics, thermodynamics, lifecycle assessment, energy/carbon flows, and decision-making, with ongoing work toward interactive digital twins and intelligent energy management.
+
+I am particularly interested in translating rigorous research into **auditable models, computational tools, and deployable solutions** for low-carbon energy systems and industrial digitalisation.
 
 Author metrics (<a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&hl'>Google Scholar</a>): <strong><span id='total_cit'>314</span></strong> citations · h-index <strong><span id='h_index'>10</span></strong> <a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
