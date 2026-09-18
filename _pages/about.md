@@ -23,8 +23,6 @@ My research has evolved from **intelligent sensing, non-intrusive identification
 
 I am particularly interested in translating rigorous research into **auditable models, computational tools, and deployable solutions** for low-carbon energy systems and industrial digitalisation.
 
-Author metrics (<a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&hl'>Google Scholar</a>): <strong><span id='total_cit'>314</span></strong> citations · h-index <strong><span id='h_index'>10</span></strong> <a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
 # 🔥 News
 
 - _2026.05_: &nbsp;Released two Multi-CE-cVPP demonstrators: [<strong>SE-LCA</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/selca/) — dynamic lifecycle carbon and exergy-equivalent mapping; [<strong>MEGM</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/megm/) — multi-energy market and hybrid trading layer.
@@ -36,7 +34,7 @@ Author metrics (<a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&
 
 - _2025.07 - Now_<br>
   **Postdoctoral Fellow**, Center for Research on Microgrids (CROM), Huanjiang Laboratory, Zhejiang University, China.<br>
-  **Research Direction**: Community/park-level virtual power plant, Multi-energy systems engineering modelling, Circular economy and whole lifecycle analysis.<br>
+  **Research Direction**: Multi-energy systems, physics-based modelling, lifecycle energy-carbon assessment, and energy digitalisation.<br>
   **Co-supervisor**: [Prof. Josep M. Guerrero](https://scholar.google.com/citations?user=cj43vw4AAAAJ&hl=en), [Assoc. Prof. Tai Jin](https://scholar.google.com/citations?user=z0ajECcAAAAJ&hl=en)
 
 # 📖 Educations
