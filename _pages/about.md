@@ -51,22 +51,52 @@ Author metrics (<a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&
 
 # 🌐 Projects
 
-- _2024.04 - 2026.05_<br>
-  **Principal Investigator (Provincial Grant)**, A Cross-Departmental Joint Innovation Project (Guangxi University, Guangxi Ministry of Education, Harbin Hospital Community).<br>
-  **Title**: Energy Analysis of Community Virtual Power Plants Based on Circular Economy (CE-cVPP).<br>
-  **Research Contents**: (1) For renewable energy-dominated community energy systems, construct a new sustainable development model supported by circular economy theory, and achieving zero carbon park construction; (2) Establish a full lifecycle quantitative assessment model, comprehensively quantifying the sustainability characteristics of energy, environment, and economy from goal construction to end-of-life; (3) Establish a hybrid market trading mechanism combining multi-energy, pollutant tax, carbon trading, and green certificate, to promote the market-oriented development of CE cVPP.<br>
-  **Research Achievements**: (1) Published six SCI Top journal papers; (2) Invited to attend top industry conferences in Japan and give presentations; (3) Trained a PhD graduate; (4) Received the 2024 National Scholarship for Doctoral Students.<br>
-  **Demonstrators (public case-study snapshots, no proprietary solver):** <a href="https://xie-haonan.github.io/Multi-CE-cVPP/selca/" target="_blank" rel="noopener noreferrer">SE-LCA dashboard</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/megm/" target="_blank" rel="noopener noreferrer">MEGM market layer</a> · <a href="https://github.com/xie-haonan/Multi-CE-cVPP" target="_blank" rel="noopener noreferrer">showcase repository</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/" target="_blank" rel="noopener noreferrer">portal</a>.
-- _2021.03 - 2025.03_<br>
-  **China Regional Lead & Co-Investigator**, UK-China-BRI (Vietnam/Indonesia) Education partnership Initiative.<br>
-  **Title**: Decarbonisation, Decentralised and Digitalisation (3D Energy).<br>
-  **Research Contents**: Responsible for conducting research and communication in China, (1) Cooperate with the School of Electrical Engineering of Guangxi University, Heriot Watt University of Malaysia and Ho Chi Minh University of Science and Technology to jointly carry out research on transnational energy sustainable development, explore strategies, policies and technical means to achieve the goal of carbon neutrality, promote cultural exchanges and scientific and technological construction of the national "the Belt and Road" initiative, and contribute to regional and global sustainable development; (2) Organize the China Nanning-ASEAN Belt and Road International Low-Carbon Energy Education Project, hold a seminar on low-carbon energy development, provide training in advanced experimental technologies for students, and facilitate cultural exchange visits.<br>
-  **Research Achievements**: (1) Published over ten SCI journal articles; (2) Convened an international exchange conference on energy distribution, digitization, and low-carbon development in Nanning, China; (3) Trained 1 PhD and 13 master's graduates.
-- _2021.12 - 2023.05_<br>
-  **Co-Investigator (Enterprise Joint Project)**, A Cross-Departmental Joint (Guangxi University, South Power Grid) Opening Foundation Project, from China Southern Power Grid Company Limited.<br>
-  **Title**: Complex metal foreign object detection in high anti-interference magnetic coupling wireless energy transmission system based on intelligent algorithms.<br>
-  **Research Contents**: (1) Conduct research on the anti-interference capability of wireless power transmission systems based on complex metal foreign object detection technology, designing and construct a highly robust system to ensure continuous safe operation; (2) Develop a new intelligent metal foreign object identification algorithm based on intelligent algorithms, designing an adaptive metal foreign object detection system to improve the reliability of complex detection systems.<br>
-  **Research Achievements**: (1) Published 1 SCI Top journal paper, 1 EI paper, and 1 Chinese journal paper; (2) Obtained 1 invention patent authorization and 1 utility model patent authorization; (3) Complete the patent achievement transformation project and achieve a school funding of RMB700,000; (4) Trained a master's student to graduate.
+- **Multi-CE-cVPP — Postdoctoral Research Project**<br>
+  2025–Present · Zhejiang University<br>
+  My postdoctoral research project focuses on physics-based modelling, lifecycle sustainability assessment, and coordinated operation of park- and community-level multi-energy systems, building on my Ph.D. research on CE-cVPP.<br>
+  **Keywords**: Multi-Energy Systems · Thermodynamics · Lifecycle Assessment · Optimization · Digitalisation<br>
+  **Public links**: <a href="https://xie-haonan.github.io/Multi-CE-cVPP/" target="_blank" rel="noopener noreferrer">Multi-CE-cVPP Project Portal</a> · <a href="https://github.com/xie-haonan/Multi-CE-cVPP" target="_blank" rel="noopener noreferrer">GitHub/showcase repository</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/selca/" target="_blank" rel="noopener noreferrer">SE-LCA Demo</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/megm/" target="_blank" rel="noopener noreferrer">MEGM Demo</a>.
+
+- **Supporting Project — China Postdoctoral Science Foundation**<br>
+  2026–2027 · Principal Investigator (PI) · Grant No. 2026M790655<br>
+  Flexible thermal-energy resource identification and coordinated utilization in park-level multi-energy systems.<br>
+  **Keywords**: Thermal Inertia · Multi-Energy Systems · Energy Flexibility · Control
+
+- **CE-cVPP — Ph.D. Research Project**<br>
+  2021–2025 · Guangxi University<br>
+  Circular-economy-oriented community virtual power plants integrating lifecycle sustainability assessment, multi-energy coordination, and multi-market optimization.<br>
+  **Keywords**: Virtual Power Plant · Circular Economy · SE-LCA · Lifecycle Assessment · Multi-Objective Optimization<br>
+  **Representative papers**: [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261924005749) · [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/science/article/pii/S136403212301047X) · [Process Safety and Environmental Protection](https://www.sciencedirect.com/science/article/pii/S0957582025009954).
+
+- **Supporting Project — CE-cVPP Provincial Research Project**<br>
+  2024–2026 · Principal Investigator (PI)<br>
+  Provincial research project supporting CE-cVPP modelling, lifecycle sustainability assessment, and multi-market optimization.<br>
+  **Keywords**: CE-cVPP · Lifecycle Assessment · Low-Carbon Energy · Multi-Market Optimization
+
+- **3D Energy — International Collaboration**<br>
+  2021–2025 · China Regional Student Lead<br>
+  International education and research collaboration on decarbonised, decentralised, and digital energy systems across China, the UK, and Southeast Asia.<br>
+  **Keywords**: International Collaboration · Decarbonisation · Decentralisation · Digital Energy
+
+- **China Southern Power Grid Joint R&D**<br>
+  2021–2023 · Co-Investigator (Co-PI)<br>
+  Research on intelligent sensing, non-intrusive identification, and fault diagnosis for magnetically coupled wireless power transfer systems under complex operating conditions.<br>
+  **Keywords**: Wireless Power Transfer · Intelligent Sensing · Non-Intrusive Identification · Fault Diagnosis
+
+- **Fire and Rescue Research Subproject**<br>
+  **Research Subproject**<br>
+  Data-driven analysis of low-voltage power quality and its relationship with electrical fire risks.<br>
+  **Keywords**: Power Quality · Industrial Data · Electrical Safety · Fire Risk
+
+- **National Key R&D — Integrated Energy Systems**<br>
+  2020–2023 · Research Contributor<br>
+  Research on efficient multi-energy coordination, integrated energy-system modelling, and engineering demonstration.<br>
+  **Keywords**: Integrated Energy Systems · Multi-Energy Coordination · Energy Efficiency · Engineering Demonstration
+
+- **Smart Grid & Energy Digitalisation — Selected Collaborative Projects**<br>
+  Research Contributor<br>
+  Selected collaborative research on smart distribution grids, EV-grid interaction, energy IoT, building energy efficiency, and intelligent energy management.<br>
+  **Keywords**: Smart Grid · EV-Grid Interaction · Energy IoT · Building Energy · Digitalisation
 
 # 📝 Publications
 
