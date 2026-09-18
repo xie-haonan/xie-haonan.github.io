@@ -49,6 +49,25 @@ Author metrics (<a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&
   **Bachelor**, School of Electrical Engineering, Guangxi University, China.<br>
   **Research Direction**: Power electronics, Control science and engineering (Bachelor GPA Ranking 22nd/160)
 
+# 🌐 Projects
+
+- _2024.04 - 2026.05_<br>
+  **Principal Investigator (Provincial Grant)**, A Cross-Departmental Joint Innovation Project (Guangxi University, Guangxi Ministry of Education, Harbin Hospital Community).<br>
+  **Title**: Energy Analysis of Community Virtual Power Plants Based on Circular Economy (CE-cVPP).<br>
+  **Research Contents**: (1) For renewable energy-dominated community energy systems, construct a new sustainable development model supported by circular economy theory, and achieving zero carbon park construction; (2) Establish a full lifecycle quantitative assessment model, comprehensively quantifying the sustainability characteristics of energy, environment, and economy from goal construction to end-of-life; (3) Establish a hybrid market trading mechanism combining multi-energy, pollutant tax, carbon trading, and green certificate, to promote the market-oriented development of CE cVPP.<br>
+  **Research Achievements**: (1) Published six SCI Top journal papers; (2) Invited to attend top industry conferences in Japan and give presentations; (3) Trained a PhD graduate; (4) Received the 2024 National Scholarship for Doctoral Students.<br>
+  **Demonstrators (public case-study snapshots, no proprietary solver):** <a href="https://xie-haonan.github.io/Multi-CE-cVPP/selca/" target="_blank" rel="noopener noreferrer">SE-LCA dashboard</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/megm/" target="_blank" rel="noopener noreferrer">MEGM market layer</a> · <a href="https://github.com/xie-haonan/Multi-CE-cVPP" target="_blank" rel="noopener noreferrer">showcase repository</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/" target="_blank" rel="noopener noreferrer">portal</a>.
+- _2021.03 - 2025.03_<br>
+  **China Regional Lead & Co-Investigator**, UK-China-BRI (Vietnam/Indonesia) Education partnership Initiative.<br>
+  **Title**: Decarbonisation, Decentralised and Digitalisation (3D Energy).<br>
+  **Research Contents**: Responsible for conducting research and communication in China, (1) Cooperate with the School of Electrical Engineering of Guangxi University, Heriot Watt University of Malaysia and Ho Chi Minh University of Science and Technology to jointly carry out research on transnational energy sustainable development, explore strategies, policies and technical means to achieve the goal of carbon neutrality, promote cultural exchanges and scientific and technological construction of the national "the Belt and Road" initiative, and contribute to regional and global sustainable development; (2) Organize the China Nanning-ASEAN Belt and Road International Low-Carbon Energy Education Project, hold a seminar on low-carbon energy development, provide training in advanced experimental technologies for students, and facilitate cultural exchange visits.<br>
+  **Research Achievements**: (1) Published over ten SCI journal articles; (2) Convened an international exchange conference on energy distribution, digitization, and low-carbon development in Nanning, China; (3) Trained 1 PhD and 13 master's graduates.
+- _2021.12 - 2023.05_<br>
+  **Co-Investigator (Enterprise Joint Project)**, A Cross-Departmental Joint (Guangxi University, South Power Grid) Opening Foundation Project, from China Southern Power Grid Company Limited.<br>
+  **Title**: Complex metal foreign object detection in high anti-interference magnetic coupling wireless energy transmission system based on intelligent algorithms.<br>
+  **Research Contents**: (1) Conduct research on the anti-interference capability of wireless power transmission systems based on complex metal foreign object detection technology, designing and construct a highly robust system to ensure continuous safe operation; (2) Develop a new intelligent metal foreign object identification algorithm based on intelligent algorithms, designing an adaptive metal foreign object detection system to improve the reliability of complex detection systems.<br>
+  **Research Achievements**: (1) Published 1 SCI Top journal paper, 1 EI paper, and 1 Chinese journal paper; (2) Obtained 1 invention patent authorization and 1 utility model patent authorization; (3) Complete the patent achievement transformation project and achieve a school funding of RMB700,000; (4) Trained a master's student to graduate.
+
 # 📝 Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -72,25 +91,6 @@ Author metrics (<a href='https://scholar.google.com/citations?user=RylWV7cAAAAJ&
 - **Xie H**, Jiang M, Zhang D\*, Goh HH\*, Ahmad T, Liu H, et al. [IntelliSense Technology in the New Power Systems](https://www.sciencedirect.com/science/article/pii/S1364032123000850). **Renewable and Sustainable Energy Reviews 2023**. (SCI Q1 Top, IF 16.79, 🔔ESI Highly Cited)
 - **Xie H**, Huang R, Sun H, Han Z, Jiang M, Zhang D\*, Goh HH\*, et al. [Wireless Energy: Paving the Way for Smart Cities and a Greener Future](https://www.sciencedirect.com/science/article/pii/S0378778823006990). **Energy and Buildings 2023**. (SCI Q1 Top, IF 6.7)
 - Xiao J, Yin L, **Xie H\***, Huang R, Zhang D, Wu T. [A parametric Modeling Method for Planar Coil Design in Wireless Power Transfer](https://ieeexplore.ieee.org/document/9846257/). **IEEE 5th International Electrical and Energy Conference 2022**.
-
-# 🌐 Projects
-
-- _2024.04 - 2026.05_<br>
-  **Principal Investigator (Provincial Grant)**, A Cross-Departmental Joint Innovation Project (Guangxi University, Guangxi Ministry of Education, Harbin Hospital Community).<br>
-  **Title**: Energy Analysis of Community Virtual Power Plants Based on Circular Economy (CE-cVPP).<br>
-  **Research Contents**: (1) For renewable energy-dominated community energy systems, construct a new sustainable development model supported by circular economy theory, and achieving zero carbon park construction; (2) Establish a full lifecycle quantitative assessment model, comprehensively quantifying the sustainability characteristics of energy, environment, and economy from goal construction to end-of-life; (3) Establish a hybrid market trading mechanism combining multi-energy, pollutant tax, carbon trading, and green certificate, to promote the market-oriented development of CE cVPP.<br>
-  **Research Achievements**: (1) Published six SCI Top journal papers; (2) Invited to attend top industry conferences in Japan and give presentations; (3) Trained a PhD graduate; (4) Received the 2024 National Scholarship for Doctoral Students.<br>
-  **Demonstrators (public case-study snapshots, no proprietary solver):** <a href="https://xie-haonan.github.io/Multi-CE-cVPP/selca/" target="_blank" rel="noopener noreferrer">SE-LCA dashboard</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/megm/" target="_blank" rel="noopener noreferrer">MEGM market layer</a> · <a href="https://github.com/xie-haonan/Multi-CE-cVPP" target="_blank" rel="noopener noreferrer">showcase repository</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/" target="_blank" rel="noopener noreferrer">portal</a>.
-- _2021.03 - 2025.03_<br>
-  **China Regional Lead & Co-Investigator**, UK-China-BRI (Vietnam/Indonesia) Education partnership Initiative.<br>
-  **Title**: Decarbonisation, Decentralised and Digitalisation (3D Energy).<br>
-  **Research Contents**: Responsible for conducting research and communication in China, (1) Cooperate with the School of Electrical Engineering of Guangxi University, Heriot Watt University of Malaysia and Ho Chi Minh University of Science and Technology to jointly carry out research on transnational energy sustainable development, explore strategies, policies and technical means to achieve the goal of carbon neutrality, promote cultural exchanges and scientific and technological construction of the national "the Belt and Road" initiative, and contribute to regional and global sustainable development; (2) Organize the China Nanning-ASEAN Belt and Road International Low-Carbon Energy Education Project, hold a seminar on low-carbon energy development, provide training in advanced experimental technologies for students, and facilitate cultural exchange visits.<br>
-  **Research Achievements**: (1) Published over ten SCI journal articles; (2) Convened an international exchange conference on energy distribution, digitization, and low-carbon development in Nanning, China; (3) Trained 1 PhD and 13 master's graduates.
-- _2021.12 - 2023.05_<br>
-  **Co-Investigator (Enterprise Joint Project)**, A Cross-Departmental Joint (Guangxi University, South Power Grid) Opening Foundation Project, from China Southern Power Grid Company Limited.<br>
-  **Title**: Complex metal foreign object detection in high anti-interference magnetic coupling wireless energy transmission system based on intelligent algorithms.<br>
-  **Research Contents**: (1) Conduct research on the anti-interference capability of wireless power transmission systems based on complex metal foreign object detection technology, designing and construct a highly robust system to ensure continuous safe operation; (2) Develop a new intelligent metal foreign object identification algorithm based on intelligent algorithms, designing an adaptive metal foreign object detection system to improve the reliability of complex detection systems.<br>
-  **Research Achievements**: (1) Published 1 SCI Top journal paper, 1 EI paper, and 1 Chinese journal paper; (2) Obtained 1 invention patent authorization and 1 utility model patent authorization; (3) Complete the patent achievement transformation project and achieve a school funding of RMB700,000; (4) Trained a master's student to graduate.
 
 # 📜 Patents/Software Copyright
 
