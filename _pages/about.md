@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Postdoctoral Fellow at the Center for Research on Microgrids (CROM), Zhejiang University, with a Ph.D. in Electrical Engineering. My work focuses on **multi-energy systems, physics-based modelling, lifecycle energy-carbon assessment, optimization, and energy digitalisation**, with an emphasis on bridging fundamental modelling with practical energy-system applications.
+I am a Postdoctoral Researcher / Assistant Researcher at the Center for Research on Microgrids (CROM), Zhejiang University, with a Ph.D. in Electrical Engineering. My work focuses on **multi-energy systems, physics-based modelling, lifecycle energy-carbon assessment, optimization, and energy digitalisation**, with an emphasis on bridging fundamental modelling with practical energy-system applications.
 
 My research has evolved from **intelligent sensing, non-intrusive identification, and fault diagnosis**, to **circular-economy-oriented virtual power plants (CE-cVPP)**, and currently to **Multi-CE-cVPP**, my postdoctoral research framework for park- and community-level multi-energy systems. I develop Python-based computational models and tools that connect equipment physics, thermodynamics, lifecycle assessment, energy/carbon flows, and decision-making, with ongoing work toward interactive digital twins and intelligent energy management.
 
@@ -30,12 +30,16 @@ I am particularly interested in translating rigorous research into **auditable m
 - _2025.07_: &nbsp;Joined ZJU-Huanjiang Lab as a Postdoctoral Fellow, co-supervised by Prof. Josep M. Guerrero (IEEE Fellow).
 - _2025.06_: &nbsp;Earned Ph.D. in Electrical Engineering from Guangxi University.
 
-# 💼 Employments
+<div class="anchor" id="-employments"></div>
 
-- _2025.07 - Now_<br>
-  **Postdoctoral Fellow**, Center for Research on Microgrids (CROM), Huanjiang Laboratory, Zhejiang University, China.<br>
-  **Research Direction**: Multi-energy systems, physics-based modelling, lifecycle energy-carbon assessment, and energy digitalisation.<br>
-  **Co-supervisor**: [Prof. Josep M. Guerrero](https://scholar.google.com/citations?user=cj43vw4AAAAJ&hl=en), [Assoc. Prof. Tai Jin](https://scholar.google.com/citations?user=z0ajECcAAAAJ&hl=en)
+# 💼 Professional Experience
+
+- **Postdoctoral Researcher / Assistant Researcher, Zhejiang University**<br>
+  2025.07–Present · Center for Research on Microgrids (CROM), Huanjiang Laboratory · Zhejiang, China<br>
+  **Research Focus**: Multi-energy systems · Physics-based modelling · Lifecycle energy-carbon assessment · System optimization · Digital twins<br>
+  Lead research and engineering development of Multi-CE-cVPP, coordinating system architecture, physics-based modelling, validation, software integration, and prototype delivery.<br>
+  Coordinate cross-disciplinary implementation and external collaboration, translating research requirements into reusable engineering modules, interfaces, and demonstrable digital prototypes.<br>
+  **Postdoctoral Advisors**: [Prof. Josep M. Guerrero](https://scholar.google.com/citations?user=cj43vw4AAAAJ&hl=en), [Assoc. Prof. Tai Jin](https://scholar.google.com/citations?user=z0ajECcAAAAJ&hl=en)
 
 # 📖 Education
 
