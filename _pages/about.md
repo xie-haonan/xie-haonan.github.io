@@ -51,52 +51,51 @@ I am particularly interested in translating rigorous research into **auditable m
 
 # 🌐 Projects
 
-- **Multi-CE-cVPP — Postdoctoral Research Project**<br>
-  2025–Present · Zhejiang University<br>
-  My postdoctoral research project focuses on physics-based modelling, lifecycle sustainability assessment, and coordinated operation of park- and community-level multi-energy systems, building on my Ph.D. research on CE-cVPP.<br>
-  **Keywords**: Multi-Energy Systems · Thermodynamics · Lifecycle Assessment · Optimization · Digitalisation<br>
+- **Energy–Quality–Carbon Dynamics & Cross-Scale Coordination in Micro-Energy Systems**<br>
+  Principal Investigator | China Postdoctoral Science Foundation, General Program | 2026.09–2028.08<br>
+  Investigating non-steady-state energy–quality–carbon (EQC) coupling in micro-energy systems under generalized uncertainties, with a focus on generalized thermal inertia, dynamic carbon mapping, and cross-scale coordinated control.<br>
+  **Research Focus**: Non-steady-state thermodynamic modelling · Generalized thermal inertia · Energy–quality–carbon mapping · Physics-informed machine learning · Distributionally robust optimization · Model predictive control · RCP-HIL
+
+- **Multi-CE-cVPP — Physics-Informed Multi-Energy Digital Twin Platform**<br>
+  Project Lead | Zhejiang University | 2025.07–Present<br>
+  Developing a physics-informed digital-twin platform for park- and community-level multi-energy systems, connecting equipment-level physical models, electric/heat/cold carrier flows, stateful storage, simulation services, and interactive visualization.<br>
+  **Technical Stack**: Python · FastAPI · React · Three.js · TwinState · REST APIs · Automated Testing · GitHub Actions<br>
   **Public links**: <a href="https://xie-haonan.github.io/Multi-CE-cVPP/" target="_blank" rel="noopener noreferrer">Multi-CE-cVPP Project Portal</a> · <a href="https://github.com/xie-haonan/Multi-CE-cVPP" target="_blank" rel="noopener noreferrer">GitHub/showcase repository</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/selca/" target="_blank" rel="noopener noreferrer">SE-LCA Demo</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/megm/" target="_blank" rel="noopener noreferrer">MEGM Demo</a>.
 
-- **Supporting Project — China Postdoctoral Science Foundation**<br>
-  2026–2027 · Principal Investigator (PI) · Grant No. 2026M790655<br>
-  Flexible thermal-energy resource identification and coordinated utilization in park-level multi-energy systems.<br>
-  **Keywords**: Thermal Inertia · Multi-Energy Systems · Energy Flexibility · Control
-
-- **CE-cVPP — Ph.D. Research Project**<br>
-  2021–2025 · Guangxi University<br>
-  Circular-economy-oriented community virtual power plants integrating lifecycle sustainability assessment, multi-energy coordination, and multi-market optimization.<br>
-  **Keywords**: Virtual Power Plant · Circular Economy · SE-LCA · Lifecycle Assessment · Multi-Objective Optimization<br>
+- **CE-cVPP — Multi-Objective Optimization & Lifecycle Decision Modelling**<br>
+  Principal Investigator | Guangxi Graduate Education Innovation Project | 2024.04–2026.04<br>
+  Developed a circular-economy-oriented community virtual power plant framework integrating multi-energy system modelling, lifecycle energy, environmental, and economic assessment, prosumer operation, multi-objective optimization, and multi-market interaction.<br>
+  **Project No.**: YCBZ2024005<br>
+  **Research Focus**: Community Virtual Power Plant · Circular Economy · Lifecycle Assessment · NSGA-II · Multi-Objective Optimization · Energy/Carbon Markets<br>
+  **Selected Results**: 67.74% primary-energy saving · 58.68% average pollutant reduction · 55.81% annual lifecycle-cost saving in the load-driven optimized case.<br>
   **Representative papers**: [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261924005749) · [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/science/article/pii/S136403212301047X) · [Process Safety and Environmental Protection](https://www.sciencedirect.com/science/article/pii/S0957582025009954).
 
-- **Supporting Project — CE-cVPP Provincial Research Project**<br>
-  2024–2026 · Principal Investigator (PI)<br>
-  Provincial research project supporting CE-cVPP modelling, lifecycle sustainability assessment, and multi-market optimization.<br>
-  **Keywords**: CE-cVPP · Lifecycle Assessment · Low-Carbon Energy · Multi-Market Optimization
+- **Intelligent Foreign-Object Detection & Robust Wireless Power Transfer**<br>
+  Co-PI | China Southern Power Grid Joint R&D | 2021.12–2023.05<br>
+  Built and validated multi-physics and circuit models using ANSYS Maxwell and MATLAB/Simulink to analyse metallic foreign-object impacts on electromagnetic behaviour, coupling, impedance, transmission efficiency, and system stability.<br>
+  Supervised the development of data-driven foreign-object detection methods using electrical features, preprocessing, clustering, and learning-based approaches.<br>
+  **Selected Outcomes**: Patented technologies · RMB 0.70 million technology-transfer project
 
-- **3D Energy — International Collaboration**<br>
-  2021–2025 · China Regional Student Lead<br>
-  International education and research collaboration on decarbonised, decentralised, and digital energy systems across China, the UK, and Southeast Asia.<br>
-  **Keywords**: International Collaboration · Decarbonisation · Decentralisation · Digital Energy
+- **Power-Quality Analytics & Electrical-Fire Risk Diagnosis**<br>
+  Work Package Lead | Ministry of Emergency Management Fire & Rescue R&D Project | 2022.10–2024.09<br>
+  Led the power-quality analytics work package covering disturbance denoising, time-frequency detection, feature extraction, and automatic classification under noisy and compound operating conditions.<br>
+  **Selected Outcome**: 97.57% average classification accuracy for single disturbances at 30 dB SNR and 94.40% for compound disturbances at 40 dB SNR.
 
-- **China Southern Power Grid Joint R&D**<br>
-  2021–2023 · Co-Investigator (Co-PI)<br>
-  Research on intelligent sensing, non-intrusive identification, and fault diagnosis for magnetically coupled wireless power transfer systems under complex operating conditions.<br>
-  **Keywords**: Wireless Power Transfer · Intelligent Sensing · Non-Intrusive Identification · Fault Diagnosis
+- **3D Energy — UK–China–ASEAN Academic Collaboration**<br>
+  China Regional Student Lead | British Council UK–China–BRI Programme | 2021.03–2025.03<br>
+  Led a five-member team and coordinated faculty, international visitors, and partner institutions for the end-to-end delivery of China-based programme activities involving 30+ participants.<br>
+  Organized international academic seminars, technical workshops, and summit activities on decarbonisation, decentralisation, and digitalisation, facilitating multidisciplinary knowledge exchange and cross-cultural collaboration across the UK, China, and ASEAN partner institutions.
 
-- **Fire and Rescue Research Subproject**<br>
-  **Research Subproject**<br>
-  Data-driven analysis of low-voltage power quality and its relationship with electrical fire risks.<br>
-  **Keywords**: Power Quality · Industrial Data · Electrical Safety · Fire Risk
+## Other Research Projects
 
-- **National Key R&D — Integrated Energy Systems**<br>
-  2020–2023 · Research Contributor<br>
-  Research on efficient multi-energy coordination, integrated energy-system modelling, and engineering demonstration.<br>
-  **Keywords**: Integrated Energy Systems · Multi-Energy Coordination · Energy Efficiency · Engineering Demonstration
-
-- **Smart Grid & Energy Digitalisation — Selected Collaborative Projects**<br>
-  Research Contributor<br>
-  Selected collaborative research on smart distribution grids, EV-grid interaction, energy IoT, building energy efficiency, and intelligent energy management.<br>
-  **Keywords**: Smart Grid · EV-Grid Interaction · Energy IoT · Building Energy · Digitalisation
+- **Green & Intelligent Distribution Grid Digitalization: Key Technologies and Demonstration** · Guangxi Science and Technology Major Project · 2022.05–2027.04 · **Core Research Team Member**
+- **Energy-Efficient Operation of Large Public Buildings Considering Fine-Grained Central Air-Conditioning Energy Flows** · National Natural Science Foundation of China, Young Scientists Fund · 2022.01–2024.12 · **Core Research Team Member**
+- **Intelligent Response Technologies for EV Battery-Swap Stations in Vehicle–Grid Interaction** · Guangxi Power Grid Electric Power Research Institute · 2023.12–2024.09 · **Core Research Team Member**
+- **Digital Technologies and Big-Data Platform for New Energy Internet of Things** · Ministry of Science and Technology, Belt and Road Project · 2024.01–2025.12 · **Core Research Team Member**
+- **Key Technologies and Platform Development for Efficient Coordinated Operation of Integrated Energy Systems** · National Key R&D Program of China · 2020.10–2023.09 · **Core Research Team Member**
+- **Key Technologies and Demonstration for Efficient Coordination of Integrated Energy Systems** · National Key R&D Program of China · 2020.12–2023.11 · **Core Research Team Member**
+- **Integration of Microgrid and Intelligent Energy Management System** · Guangxi Science & Technology Base and Talent Program · 2019.07–2022.07 · **Core Research Team Member**
+- **Synergy of the Future: The Integration of Microgrids and Intelligent Energy Management Systems** · Guangxi Science & Technology Base and Talent Program · 2019.07–2020.07 · **Core Research Team Member**
 
 # 📝 Publications
 
