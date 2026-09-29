@@ -19,15 +19,16 @@ redirect_from:
 
 I am a Postdoctoral Researcher / Assistant Researcher at the Center for Research on Microgrids (CROM), Zhejiang University, with a Ph.D. in Electrical Engineering. My work focuses on **multi-energy systems, physics-based modelling, lifecycle energy-carbon assessment, optimization, and energy digitalisation**, with an emphasis on bridging fundamental modelling with practical energy-system applications.
 
-My research has evolved from **intelligent sensing, non-intrusive identification, and fault diagnosis**, to **circular-economy-oriented virtual power plants (CE-cVPP)**, and currently to **Multi-CE-cVPP**, my postdoctoral research framework for park- and community-level multi-energy systems. I develop Python-based computational models and tools that connect equipment physics, thermodynamics, lifecycle assessment, energy/carbon flows, and decision-making, with ongoing work toward interactive digital twins and intelligent energy management.
+My research has evolved from **intelligent sensing, non-intrusive identification, and fault diagnosis**, to **circular-economy-oriented virtual power plants (CE-cVPP)**, and currently to two closely connected postdoctoral directions: **Multi-CE-cVPP digital-twin development** and **energy–quality–carbon (EQC) dynamics and cross-scale coordinated control** in micro-energy systems. I develop physics-informed computational models and digital tools that connect equipment thermodynamics, multi-energy flows, lifecycle energy-carbon assessment, system optimization, and engineering decision-making.
 
 I am particularly interested in translating rigorous research into **auditable models, computational tools, and deployable solutions** for low-carbon energy systems and industrial digitalisation.
 
 # 🔥 News
 
+- _2026.06_: &nbsp;Awarded the **China Postdoctoral Science Foundation General Program** for research on energy–quality–carbon dynamics and cross-scale coordination in micro-energy systems.
 - _2026.05_: &nbsp;Released two Multi-CE-cVPP demonstrators: [<strong>SE-LCA</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/selca/) — dynamic lifecycle carbon and exergy-equivalent mapping; [<strong>MEGM</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/megm/) — multi-energy market and hybrid trading layer.
-- _2026.03_: &nbsp;Multi-CE-cVPP showcase in active development; full release pending public disclosure.
-- _2025.07_: &nbsp;Joined ZJU-Huanjiang Lab as a Postdoctoral Fellow, co-supervised by Prof. Josep M. Guerrero (IEEE Fellow).
+- _2026.03_: &nbsp;Multi-CE-cVPP showcase entered active development, integrating physics-based modelling, lifecycle assessment, and interactive digital-twin functions.
+- _2025.07_: &nbsp;Joined Zhejiang University / Huanjiang Laboratory as a **Postdoctoral Researcher / Assistant Researcher** at the Center for Research on Microgrids (CROM).
 - _2025.06_: &nbsp;Earned Ph.D. in Electrical Engineering from Guangxi University.
 
 <div class="anchor" id="-employments"></div>
