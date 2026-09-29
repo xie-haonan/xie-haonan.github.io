@@ -65,7 +65,6 @@ I am particularly interested in translating rigorous research into **auditable m
 - **CE-cVPP — Multi-Objective Optimization & Lifecycle Decision Modelling**<br>
   Principal Investigator | Guangxi Graduate Education Innovation Project | 2024.04–2026.04<br>
   Developed a circular-economy-oriented community virtual power plant framework integrating multi-energy system modelling, lifecycle energy, environmental, and economic assessment, prosumer operation, multi-objective optimization, and multi-market interaction.<br>
-  **Project No.**: YCBZ2024005<br>
   **Research Focus**: Community Virtual Power Plant · Circular Economy · Lifecycle Assessment · NSGA-II · Multi-Objective Optimization · Energy/Carbon Markets<br>
   **Selected Results**: 67.74% primary-energy saving · 58.68% average pollutant reduction · 55.81% annual lifecycle-cost saving in the load-driven optimized case.<br>
   **Representative papers**: [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261924005749) · [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/science/article/pii/S136403212301047X) · [Process Safety and Environmental Protection](https://www.sciencedirect.com/science/article/pii/S0957582025009954).
