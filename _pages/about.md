@@ -31,7 +31,7 @@ I am particularly interested in translating rigorous research into **auditable m
 - _2025.07_: &nbsp;Joined Zhejiang University / Huanjiang Laboratory as a **Postdoctoral Researcher / Assistant Researcher** at the Center for Research on Microgrids (CROM).
 - _2025.06_: &nbsp;Earned Ph.D. in Electrical Engineering from Guangxi University.
 
-<div class="anchor" id="-employments"></div>
+<div class="anchor" id="professional-experience"></div>
 
 # 💼 Professional Experience
 
