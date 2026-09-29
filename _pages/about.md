@@ -37,17 +37,24 @@ I am particularly interested in translating rigorous research into **auditable m
   **Research Direction**: Multi-energy systems, physics-based modelling, lifecycle energy-carbon assessment, and energy digitalisation.<br>
   **Co-supervisor**: [Prof. Josep M. Guerrero](https://scholar.google.com/citations?user=cj43vw4AAAAJ&hl=en), [Assoc. Prof. Tai Jin](https://scholar.google.com/citations?user=z0ajECcAAAAJ&hl=en)
 
-# 📖 Educations
+# 📖 Education
 
-- _2019.09 - 2025.06_<br>
-  **Direct Ph.D.**, School of Electrical Engineering, Guangxi University, China.<br>
-  **Research Direction**: Virtual power plant, Energy systems engineering modelling.<br>
-  **Supervisor**: [Prof. Hui Hwang Goh](https://scholar.google.com.my/citations?user=bk7OXTsAAAAJ&hl=en) (PhD GPA Ranking **1st/19**).<br>
-  **Co-supervisor**: [Prof. Dongdong Zhang](https://ieeexplore.ieee.org/author/37086023621) (Master GPA Ranking **1st/13**)
+- **Ph.D. in Electrical Engineering, Guangxi University**<br>
+  2021.09–2025.06 · School of Electrical Engineering · Nanning, China<br>
+  **Research**: Virtual power plants · Multi-energy system modelling & optimization<br>
+  **Supervisor**: [Prof. Hui Hwang Goh](https://scholar.google.com.my/citations?user=bk7OXTsAAAAJ&hl=en)<br>
+  **GPA Rank**: 1/19
 
-- _2014.09 - 2018.06_<br>
-  **Bachelor**, School of Electrical Engineering, Guangxi University, China.<br>
-  **Research Direction**: Power electronics, Control science and engineering (Bachelor GPA Ranking 22nd/160)
+- **Graduate Study in Control Science & Engineering, Guangxi University**<br>
+  2019.09–2021.08 · School of Electrical Engineering · Nanning, China<br>
+  **Research**: Power electronics & control · Wireless power transfer<br>
+  **Supervisor**: [Prof. Dongdong Zhang](https://ieeexplore.ieee.org/author/37086023621)<br>
+  **GPA Rank**: 1/13 · Transferred to the Ph.D. programme in 2021
+
+- **B.Eng. in Automation, Guangxi University**<br>
+  2014.09–2018.06 · School of Electrical Engineering · Nanning, China<br>
+  **Research**: PV-storage power electronics & control<br>
+  **GPA Rank**: 22/160
 
 # 🌐 Projects
 
