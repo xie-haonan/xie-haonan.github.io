@@ -25,9 +25,10 @@ I am particularly interested in translating rigorous research into **auditable m
 
 # 🔥 News
 
+- _2026.09_: &nbsp;Reached the **Multi-CE-cVPP v0.1** milestone, integrating physics-informed multi-energy simulation, FastAPI services, and interactive Web3D visualization into a reproducible, offline-capable digital-twin prototype.
 - _2026.06_: &nbsp;Awarded the **China Postdoctoral Science Foundation General Program** for research on energy–quality–carbon dynamics and cross-scale coordination in micro-energy systems.
+- _2026.05_: &nbsp;Served as a **Guest Editor** for the *IEEE Transactions on Reliability* Special Section, **“Reliability and Resilience Modeling of Converter-Dominated and Renewable-Rich Power Systems.”** [CFP Announcement](https://mp.weixin.qq.com/s/VSAiwmxmdXnXEucvZg5DCg)
 - _2026.05_: &nbsp;Released two Multi-CE-cVPP demonstrators: [<strong>SE-LCA</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/selca/) — dynamic lifecycle carbon and exergy-equivalent mapping; [<strong>MEGM</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/megm/) — multi-energy market and hybrid trading layer.
-- _2026.03_: &nbsp;Multi-CE-cVPP showcase entered active development, integrating physics-based modelling, lifecycle assessment, and interactive digital-twin functions.
 - _2025.07_: &nbsp;Joined Zhejiang University / Huanjiang Laboratory as a **Postdoctoral Researcher / Assistant Researcher** at the Center for Research on Microgrids (CROM).
 - _2025.06_: &nbsp;Earned Ph.D. in Electrical Engineering from Guangxi University.
 
@@ -71,6 +72,7 @@ I am particularly interested in translating rigorous research into **auditable m
 - **Multi-CE-cVPP — Physics-Informed Multi-Energy Digital Twin Platform**<br>
   Project Lead | Zhejiang University | 2025.07–Present<br>
   Developing a physics-informed digital-twin platform for park- and community-level multi-energy systems, connecting equipment-level physical models, electric/heat/cold carrier flows, stateful storage, simulation services, and interactive visualization.<br>
+  **Current milestone:** v0.1 simulation-backed interactive prototype with a reproducible offline demo, automated testing, and modular scientific-model/API/visualization architecture.<br>
   **Technical Stack**: Python · FastAPI · React · Three.js · TwinState · REST APIs · Automated Testing · GitHub Actions<br>
   **Public links**: <a href="https://xie-haonan.github.io/Multi-CE-cVPP/" target="_blank" rel="noopener noreferrer">Multi-CE-cVPP Project Portal</a> · <a href="https://github.com/xie-haonan/Multi-CE-cVPP" target="_blank" rel="noopener noreferrer">GitHub/showcase repository</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/selca/" target="_blank" rel="noopener noreferrer">SE-LCA Demo</a> · <a href="https://xie-haonan.github.io/Multi-CE-cVPP/megm/" target="_blank" rel="noopener noreferrer">MEGM Demo</a>.
 
