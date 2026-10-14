@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I am a Postdoctoral Researcher / Assistant Researcher at the Center for Research on Microgrids (CROM), Zhejiang University, with a Ph.D. in Electrical Engineering. My work focuses on **multi-energy systems, physics-based modelling, lifecycle energy-carbon assessment, optimization, and energy digitalisation**, with an emphasis on bridging fundamental modelling with practical energy-system applications.
@@ -110,15 +103,6 @@ I am particularly interested in translating rigorous research into **auditable m
 - **Integration of Microgrid and Intelligent Energy Management System** · Guangxi Science & Technology Base and Talent Program · 2019.07–2022.07 · **Core Research Team Member**
 
 # 📝 Publications
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
 - Goh HH\*, Huang C, Yew WK, **Xie H**, et al. [Sowing watts, reaping sustainability: Multi-dimensional performance of agrivoltaic electric vehicle charging systems](https://www.sciencedirect.com/science/article/pii/S0957582025013205). **Process Safety and Environmental Protection 2025**. (SCI Q1 Top, IF 6.9)
 - **Xie H**, Sun H, Liu H, He T, Goh HH\*, et al. [Prosumer Full Lifecycle Footprint Painting for Circular Economy and Community-Based Virtual Power Plant: A Multi-Objective Optimization Research](https://www.sciencedirect.com/science/article/pii/S0957582025009954). **Process Safety and Environmental Protection 2025**. (SCI Q1 Top, IF 6.9)
