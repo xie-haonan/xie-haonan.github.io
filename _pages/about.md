@@ -108,7 +108,6 @@ I am particularly interested in translating rigorous research into **auditable m
 - **Key Technologies and Platform Development for Efficient Coordinated Operation of Integrated Energy Systems** · National Key R&D Program of China · 2020.10–2023.09 · **Core Research Team Member**
 - **Key Technologies and Demonstration for Efficient Coordination of Integrated Energy Systems** · National Key R&D Program of China · 2020.12–2023.11 · **Core Research Team Member**
 - **Integration of Microgrid and Intelligent Energy Management System** · Guangxi Science & Technology Base and Talent Program · 2019.07–2022.07 · **Core Research Team Member**
-- **Synergy of the Future: The Integration of Microgrids and Intelligent Energy Management Systems** · Guangxi Science & Technology Base and Talent Program · 2019.07–2020.07 · **Core Research Team Member**
 
 # 📝 Publications
 
