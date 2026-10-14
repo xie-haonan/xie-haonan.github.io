@@ -27,7 +27,7 @@ I am particularly interested in translating rigorous research into **auditable m
 
 - _2026.09_: &nbsp;Reached the **Multi-CE-cVPP v0.1** milestone, integrating physics-informed multi-energy simulation, FastAPI services, and interactive Web3D visualization into a reproducible, offline-capable digital-twin prototype.
 - _2026.06_: &nbsp;Awarded the **China Postdoctoral Science Foundation General Program** for research on energy–quality–carbon dynamics and cross-scale coordination in micro-energy systems.
-- _2026.05_: &nbsp;Served as a **Guest Editor** for the *IEEE Transactions on Reliability* Special Section, **“Reliability and Resilience Modeling of Converter-Dominated and Renewable-Rich Power Systems.”** [CFP Announcement](https://mp.weixin.qq.com/s/VSAiwmxmdXnXEucvZg5DCg)
+- _2026.05_: &nbsp;Served as a **Guest Editor** for the *IEEE Transactions on Reliability* Special Section, **“Reliability and Resilience Modeling of Converter-Dominated and Renewable-Rich Power Systems.”** [Announcement](https://mp.weixin.qq.com/s/VSAiwmxmdXnXEucvZg5DCg)
 - _2026.05_: &nbsp;Released two Multi-CE-cVPP demonstrators: [<strong>SE-LCA</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/selca/) — dynamic lifecycle carbon and exergy-equivalent mapping; [<strong>MEGM</strong>](https://xie-haonan.github.io/Multi-CE-cVPP/megm/) — multi-energy market and hybrid trading layer.
 - _2025.07_: &nbsp;Joined Zhejiang University / Huanjiang Laboratory as a **Postdoctoral Researcher / Assistant Researcher** at the Center for Research on Microgrids (CROM).
 - _2025.06_: &nbsp;Earned Ph.D. in Electrical Engineering from Guangxi University.
